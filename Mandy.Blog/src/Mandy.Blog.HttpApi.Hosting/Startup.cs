@@ -18,6 +18,7 @@ namespace Mandy.Blog.HttpApi.Hosting
         public void Configure(IApplicationBuilder app)
         {
             app.InitializeApplication();
+            //XIUGAI XIUGAI
         }
     }
 }
